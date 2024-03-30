@@ -1,6 +1,3 @@
-# leetcode
-
-LeetCode 刷题记录
 
 98.[验证搜索二叉树](Tree/98.md)
 
